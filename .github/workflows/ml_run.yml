@@ -1,6 +1,6 @@
 # add following code to .yml file
 
-name: ML Run
+name: ML Run Libraries
 # on mentions a trigger for the workflow
 on:
     push: # when a push is made to the main branch of the repository
